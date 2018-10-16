@@ -2,30 +2,47 @@
 
 Element som skall finnas i Labyrintspelet
 
+
+Här har jag valt att ha olika storlekar på alla element, men tycker väl att ala e lika vikiga. Men valde att ha Börja spela störst, för det är viktigaste och bra att inte behöve leta efter den.
+Jag valde olka färger för att se alla element och sen lite tänkte jag för spelandans skull.
+Jag valde att ha ur spelar man först pga av att jag förväntar mig att inte vet hur man spelar så har man de högst upp. (Och oftast se man det först)
+Ofta brukarn ljudnivån på spel vara hög och dåligt ljud så har den på första sidan bara för att jag personligen gillar inte att leta efter den.
+Exempelvis när man ska spela på tåget så vill man ju inte att själva mobil låter högt.
+
 * Börja spela nu = Spelet börjar
 * Mulitplayer = Välja flera att spela med/mot eller sig själv.
+Spelare i världen, tycker det kan vara häftigt att kunna spela med människor ute i världen och även med sina vänner (Facebook och intstagram))
 * Poäng = Ser hur mycket poäng man har och vilken nivå man ligger på -
-* Bana och nivå = Kunna välja olika labyrintbanor och vilken nivå
-* Boll = Bollen som man går med i labyrinten, kunna välja vilken färg man vill ha på bolen
+* Bana och nivå = Kunna välja olika labyrintbanor och vilken nivå. Nivå ett är bana ett, Nivå två är bana två osv.
+* Boll = Bollen som man går med i labyrinten, kunna välja vilken färg man vill ha på bolen.
+Om man har sin favorit färg så kan man välja det.
 * Info om spelet = Tutorial om spelet, förklaring om hur man spelar spelet
 * Ljudknapp av och på - Ljud i spelet, musik.
 * Rekommedation = Rekommedation eller dela så man får mer poäng
-* Sök ruta = Man kan söka över hela appen  
 
 
-Dejtingapp - Målgrupp 40 - 70 år singel män och kvinnor
 
+Dejtingapp Ljuva Livet - Målgrupp 40 - 70 år singel män och kvinnor
+
+Hitta dejt - Chatt och händelser - Evenemang - Profil
+Är det vikigaste på appen tycker jag så man kan klicka på dem och navigera mmed dem i appen. Så efter apploggan ville jag ha dem, de är dem jag vill att man ska se först.
+
+* Kontakt = Så man kan kontakta männsikorna som har appen om det skulle tjorva, eller man behöver hjälp. försöker ha kontakt grejen på alla sidor så man fort kommer åt den och inte behöver söka efter den. Tycker det är väldigt viktigt, för ofta på andra appar hittar man inte den och det gör (iaf mig), irrterad.
 * Logga in = Logga in för att ha ett konto 
-* Registrera dig = Registrera för att skapa ett konto
-* Inställningar = För att ändra peronliga uppgifter och konto
+* Registrera dig = Registrera för att skapa ett konto - Har registrering för alla, så appen kan användas av edem som inte har ett konto på facebook eller hotmail, eller något liknade.
+* Inställningar = För att ändra peronliga uppgifter och konto.
+Som kontakt fliken tycker jag också det är viktigt att ha inställningar överallt och på samma ställe, så om man vill änfdra något snabbt så hittar man den fort, det kan vara så att jag har ändra ställe på instllningarna på andra sidor och de är för att få med andra flikar.
 * Profilbild = Bild på personen som har kontot 
 * Redigera profil = Info o bilder om personen som alla andra kan se
+Redigera profil är samma som inställningar, vktig att kunna gåt illbaka när som helst och var som helst på appen. Och på denna app är den som själva startsidan.
 * Din dejt = Perosner som kommer upp på appen som du kan dejta
 * Gps = Säger vart du är och hur långt ifrån din dejt är
 * Chatt = Chattsida så du kan chatta med dina dejter
+Har högst upp just för att visa att de är möjligt att kuna chatta, vilket är viktigt i en dejting app såklart.
 * Nej = När en person kommer upp på appen kan du klicka nej om du inte vill chatta med han/hon/hen
 Ja = När en person kommer upp på appen så akn du klicka ja för att chatta med han/hen/hon
 * Evenemang = Ett evenemang som görs av appen som är närmast dig och de som är medlem i appen, de som går på evenemanget får billigare inträde.
-* Händelser = En flik/knapp dr man kan ladda upp bild eller video vad man gör, så att alla du har matcha/klicka ja på ser detta. Händelsen syns i 24 timmar.
-* Sök = En ruta för att söka upp människor i ett område eller namn.
+* Händelser = En flik/knapp där man kan ladda upp bild eller video vad man gör, så att alla du har matcha/klicka ja på ser detta. Händelsen syns i 24 timmar.
+* Sök = En ruta för att söka upp människor på ett namn.
+* Inloggad = Bra till att kunna se om man är inloggad, en bekräftelse att man är inloggad.
  
