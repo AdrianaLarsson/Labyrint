@@ -45,4 +45,10 @@ Ja = När en person kommer upp på appen så akn du klicka ja för att chatta med ha
 * Händelser = En flik/knapp där man kan ladda upp bild eller video vad man gör, så att alla du har matcha/klicka ja på ser detta. Händelsen syns i 24 timmar.
 * Sök = En ruta för att söka upp människor på ett namn.
 * Inloggad = Bra till att kunna se om man är inloggad, en bekräftelse att man är inloggad.
+
+
+
+
+Bilder i apparna så har jag överlag redigera lite ex storlek på bilderna
+Och på Labyrintspelet har jag skrivit dit spelare och även lagt olika färger på bollarna, jag har även bytt färg på banorna så de ska passa någorlunda in i appens färger.
  
